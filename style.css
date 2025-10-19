@@ -11,7 +11,7 @@ section {
  margin: 20px;
  padding: 20px;
  border-radius: 10px;
-}git checkout -b feature/estilo develop
+}
 header {
  background-color: #95d5b2;
  padding: 40px;
@@ -28,3 +28,4 @@ button {
 button:hover {
  background-color: #1b4332;
 }
+
